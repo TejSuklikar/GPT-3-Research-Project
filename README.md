@@ -5,7 +5,7 @@
 
 # Is GPT-3 Smarter Than a Sixth-Grader?
 
-<em>Empowering AI with Contextual Understanding and Precision</em>
+<em>Evaluating GPT-3’s Performance on Educational Question Answering</em>
 
 <!-- BADGES -->
 <img src="https://img.shields.io/github/last-commit/TejSuklikar/GPT-3-Research-Project?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
